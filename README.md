@@ -48,14 +48,19 @@ A comprehensive weather application built with React, providing real-time weathe
    npm start
 
 ## Screenshots
-
-![Main Dashboard](./screenshots/main-dashboard.png)
+- **Main Dashboard:**
+![Main Dashboard](![image](https://github.com/Vishwa-03/weatherApp/assets/103726736/69ed3bf7-fc8b-47aa-9af6-9c7bcb67a099)
+)
 *Caption: Real-time weather dashboard displaying current weather and forecast.*
 
-![City Search](./screenshots/city-search.png)
+- **City Search:**
+![City Search](![image](https://github.com/Vishwa-03/weatherApp/assets/103726736/c7c4d932-a3bc-46f3-a6aa-59724c7e1c9f))
 *Caption: Search functionality to find weather details of different cities.*
+![image](https://github.com/Vishwa-03/weatherApp/assets/103726736/259e3a9f-4ebd-45d2-a94c-67af03169f1f)
+*Caption: Forecast weather details of different cities.*
 
-![image](https://github.com/Vishwa-03/weatherApp/assets/103726736/52112ace-0a86-4ffa-a6b8-ef9dab177c2a)
+- **User Authentication:**
+  ![image](https://github.com/Vishwa-03/weatherApp/assets/103726736/52112ace-0a86-4ffa-a6b8-ef9dab177c2a)
 *Caption: User authentication and login screen.*
 
 
