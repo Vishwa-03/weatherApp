@@ -29,3 +29,5 @@ A comprehensive weather application built with React, providing real-time weathe
 ## Installation
 
 1. Clone the repository:
+https://github.com/Vishwa-03/weatherApp.git
+cd weatherApp
