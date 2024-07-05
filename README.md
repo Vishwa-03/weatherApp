@@ -54,7 +54,7 @@ A comprehensive weather application built with React, providing real-time weathe
 *Caption: Real-time weather dashboard displaying current weather and forecast.*
 
 - **City Search:**
-![City Search](![image](https://github.com/Vishwa-03/weatherApp/assets/103726736/c7c4d932-a3bc-46f3-a6aa-59724c7e1c9f))
+![City Search]![image](https://github.com/Vishwa-03/weatherApp/assets/103726736/c7c4d932-a3bc-46f3-a6aa-59724c7e1c9f)
 *Caption: Search functionality to find weather details of different cities.*
 ![image](https://github.com/Vishwa-03/weatherApp/assets/103726736/259e3a9f-4ebd-45d2-a94c-67af03169f1f)
 *Caption: Forecast weather details of different cities.*
