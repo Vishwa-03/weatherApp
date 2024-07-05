@@ -47,10 +47,16 @@ A comprehensive weather application built with React, providing real-time weathe
    ```bash
    npm start
 
-
 ## Screenshots
 
-![Screenshot 1](https://example.com/path/to/screenshot1.png)
-![Screenshot 2](https://example.com/path/to/screenshot2.png)
-![Screenshot 3](https://example.com/path/to/screenshot3.png)
+![Main Dashboard](./screenshots/main-dashboard.png)
+*Caption: Real-time weather dashboard displaying current weather and forecast.*
+
+![City Search](./screenshots/city-search.png)
+*Caption: Search functionality to find weather details of different cities.*
+
+![User Authentication](./screenshots/user-auth.png)
+*Caption: User authentication and login screen.*
+
+
 
